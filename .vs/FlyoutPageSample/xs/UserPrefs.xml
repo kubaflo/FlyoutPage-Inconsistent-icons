@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{F7349959-D610-483E-B2AF-88D02BBE56F0}|Default">
+  <MonoDevelop.Ide.ItemProperties.FlyoutPageSample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.71509B60-F4A2-4E79-B2D2-CCE2BF1F388A" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.46" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlyoutPageSample/MainPage.xaml">
+    <Files>
+      <File FileName="FlyoutPageSample/AppFlyout.xaml" Line="11" Column="27" />
+      <File FileName="FlyoutPageSample/FlyoutMenuPage.xaml" Line="12" Column="55" />
+      <File FileName="FlyoutPageSample/App.xaml.cs" Line="5" Column="1" />
+      <File FileName="FlyoutPageSample/Platforms/iOS/Program.cs" Line="1" Column="1" />
+      <File FileName="FlyoutPageSample/App.xaml" Line="4" Column="58" />
+      <File FileName="FlyoutPageSample/FlyoutPageItem.cs" Line="1" Column="1" />
+      <File FileName="FlyoutPageSample/MainPage.xaml" Line="3" Column="24" />
+      <File FileName="FlyoutPageSample/Platforms/iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="FlyoutPageSample/Platforms/iOS/Info.plist" />
+      <File FileName="FlyoutPageSample/Resources/Images/dotnet_bot.svg" Line="1" Column="1" />
+      <File FileName="FlyoutPageSample/FlyoutMenuPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlyoutPageSample" expanded="True">
+            <Node name="FlyoutPageSample" expanded="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="iOS" expanded="True" />
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="Images" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="FlyoutMenuPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.71509B60-F4A2-4E79-B2D2-CCE2BF1F388A" />
+</Properties>
